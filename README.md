@@ -2,7 +2,7 @@
   <img src="assets/inti-university-seeklogo.png" alt="INTI International University Logo" width="380"/>
   <br><br>
 
-  # 🏍️ MRA IRELAND — Official Motorsport Website UI/UX Clone & Redesign
+  #MRA IRELAND — Official Motorsport Website UI/UX Clone & Redesign
   ### *Human-Computer Interaction (HCI) Heuristic Evaluation, Information Architecture & 15-Screen Figma Web Prototype*
 
   <br>
@@ -18,10 +18,9 @@
   <br>
 
   **Module:** HCI 3202 — Human Computer Interface (Section: 6H1 / 6MB1)  
-  **Assessment:** Online Assessment — CLO2 (20% Coursework Weightage)  
   **Session:** June 2026 (Student Mobility Program — Fully Funded Scholarship)  
   **Faculty:** Faculty of Data Science and Information Technology, INTI International University, Nilai, Malaysia  
-  **Lecturer / Examiner:** Kala Devi Managuran  
+  **Professor / Supervisor:** Kala Devi Managuran  
   **Live Target Website Evaluated:** [🌐 Visit Official MRA Ireland Website (`mraireland.com`)](https://www.mraireland.com/)  
   **Live Figma Prototype:** [🔗 View Interactive 15-Screen Website Prototype](https://www.figma.com/design/uZiFj7QaebOuhsS1G9GNvP/HCI-MRA-Website-Design-Prototype?node-id=0-1)
 
