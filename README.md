@@ -254,14 +254,14 @@ MRA-Ireland-Website-UI-Redesign-HCI3202/
 
 ## 👥 Project Team, Contributions & Academic Details
 
-| # | Team Member Name | INTI Student ID | Programme & Section | Primary Project Contribution |
+| # | Team Member Name | INTI Student ID | Programme & Section |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | **Shahadat Hossain** *(UI/UX Lead & Figma Architect)* | `I26041279` | BITI / BCSI (`6H1 / 6MB1`) — *June 2026 Student Mobility Scholar* | **100%** of all 15 MRA Website Figma UI Designs (`1.jpg`–`15.jpg`) & **50%** Report Formatting |
-| 2 | **Rowan Cesar Macuacua** | `I25037217` | BITI (`6H1 / 6MB1`) | **100%** Main Report Writing & **50%** Report Formatting |
-| 3 | **Raduan Mia** | `I25035605` | BITI (`6H1 / 6MB1`) | Group Research & Heuristic Review Support |
-| 4 | **Morris Kinyua** | `I24028729` | BITI (`6H1 / 6MB1`) | Group Research & Comparative Benchmarking Support |
+| 1 | **Shahadat Hossain** *(UI/UX Lead & Figma Architect)* | `I26041279` | BITI / BCSI (`6H1 / 6MB1`) — *June 2026 Student Mobility Scholar* |
+| 2 | **Rowan Cesar Macuacua** | `I25037217` | BITI (`6H1 / 6MB1`) |
+| 3 | **Raduan Mia** | `I25035605` | BITI (`6H1 / 6MB1`) |
+| 4 | **Morris Kinyua** | `I24028729` | BITI (`6H1 / 6MB1`) |
 
-* **Course / Module:** `HCI 3202 — Human Computer Interface` (Online Assessment — CLO2, 20%)
+* **Course / Module:** `HCI 3202 — Human Computer Interface`
 * **Lecturer / Examiner:** **Kala Devi Managuran** (`kaladevi.managuran@newinti.edu.my`)
 * **Host Institution:** Faculty of Data Science and Information Technology, **INTI International University**, Nilai, Negeri Sembilan, Malaysia
 
