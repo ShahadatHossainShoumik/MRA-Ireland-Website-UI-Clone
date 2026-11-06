@@ -2,7 +2,7 @@
   <img src="assets/inti-university-seeklogo.png" alt="INTI International University Logo" width="380"/>
   <br><br>
 
-  #MRA IRELAND — Official Motorsport Website UI/UX Clone & Redesign
+  # MRA IRELAND — Official Motorsport Website UI/UX Clone & Redesign
   ### *Human-Computer Interaction (HCI) Heuristic Evaluation, Information Architecture & 15-Screen Figma Web Prototype*
 
   <br>
