@@ -90,9 +90,9 @@ Governing body portals in competitive motorsport must provide racers, officials,
 | **Screen 1** | `Fig 3.1` | **Homepage (`Home`)** | `1.jpg` | Hero banner, prominent `Latest News` cards, sidebar `Events` feed (`Enter Online` CTAs), and dual-column quick-links footer |
 | **Screen 2** | `Fig 3.2` | **Events Calendar** | `2.jpg` | Chronological 2026 fixture table with month/category filtering, venue, host club, and direct `Register` / `Details` buttons |
 | **Screen 3** | `Fig 3.3` | **Affiliated Clubs (`Clubs`)** | `3.jpg` | Structured directory of MRA-affiliated motocross, quad, and trial clubs across all 9 Ulster counties |
-| **Screen 4** | `Fig 3.4` | **Coaching** | `4.jpg` | Official MRA rider development strategy, coaching announcements, and contact channels |
-| **Screen 5** | `Fig 3.5` | **About MRA Ireland (`About`)** | `5.jpg` | Governance overview (~50 annual events, ~1,500 members, MCUI/FIM affiliation, and WADA anti-doping compliance) |
-| **Screen 6** | `Fig 3.6` | **Adult Solo Championship** | `6.jpg` | Ulster Adult Solo dates, eligibility, transponder rules, downloadable standings card, and series sponsors |
+| **Screen 4** | `Fig 3.4` | **Coaching** | `4.png` | Official MRA rider development strategy, coaching announcements, and contact channels |
+| **Screen 5** | `Fig 3.5` | **About MRA Ireland (`About`)** | `5.png` | Governance overview (~50 annual events, ~1,500 members, MCUI/FIM affiliation, and WADA anti-doping compliance) |
+| **Screen 6** | `Fig 3.6` | **Adult Solo Championship** | `6.png` | Ulster Adult Solo dates, eligibility, transponder rules, downloadable standings card, and series sponsors |
 | **Screen 7** | `Fig 3.7` | **Quad & Sidecar Championship** | `7.jpg` | Dedicated Ulster Quad & Sidecar schedule, machine plate rules, standings PDF download, and sponsor links |
 | **Screen 8** | `Fig 3.8` | **Youth Solo Championship** | `8.jpg` | Youth age-group eligibility (18 & under), *The Pavers Cave* series branding, schedule table, and standings card |
 | **Screen 9** | `Fig 3.9` | **Ulster Trial Championship** | `9.jpg` | Ulster Trial fixture dates, championship rules & regs document download, live results links, and trial sponsors |
@@ -234,9 +234,9 @@ MRA-Ireland-Website-UI-Redesign-HCI3202/
 │   ├── 1.jpg                                            # Fig 3.1  - Homepage (Latest News, Events & Quick Links)
 │   ├── 2.jpg                                            # Fig 3.2  - Events Calendar
 │   ├── 3.jpg                                            # Fig 3.3  - Affiliated Clubs Directory
-│   ├── 4.jpg                                            # Fig 3.4  - Coaching Portal
-│   ├── 5.jpg                                            # Fig 3.5  - About MRA Ireland
-│   ├── 6.jpg                                            # Fig 3.6  - Adult Solo Championship
+│   ├── 4.png                                            # Fig 3.4  - Coaching Portal
+│   ├── 5.png                                            # Fig 3.5  - About MRA Ireland
+│   ├── 6.png                                            # Fig 3.6  - Adult Solo Championship
 │   ├── 7.jpg                                            # Fig 3.7  - Quad & Sidecar Championship
 │   ├── 8.jpg                                            # Fig 3.8  - Youth Solo Championship
 │   ├── 9.jpg                                            # Fig 3.9  - Ulster Trial Championship
