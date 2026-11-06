@@ -121,12 +121,12 @@ The redesigned MRA Ireland prototype replaces cluttered layouts with a **Persist
    │
    ├──> [3. Affiliated Clubs (3.jpg)] ──> Ulster 9-County Club Directory & Contacts
    │
-   ├──> [4. Coaching (4.jpg)] ──────────> Rider Training & Assessment Strategy
+   ├──> [4. Coaching (4.png)] ──────────> Rider Training & Assessment Strategy
    │
-   ├──> [5. About (5.jpg)] ─────────────> MRA Governance, MCUI/FIM Affiliation & WADA Compliance
+   ├──> [5. About (5.png)] ─────────────> MRA Governance, MCUI/FIM Affiliation & WADA Compliance
    │
    ├──> [Championship Info & Standings] (Standardized Template: Schedule + Rules + PDF + Sponsors)
-   │     ├──> [6. Adult Solo Championship (6.jpg)]
+   │     ├──> [6. Adult Solo Championship (6.png)]
    │     ├──> [7. Quad & Sidecar Championship (7.jpg)]
    │     ├──> [8. Youth Solo Championship (8.jpg)]
    │     ├──> [9. Ulster Trial Championship (9.jpg)]
@@ -153,11 +153,11 @@ The redesigned MRA Ireland prototype replaces cluttered layouts with a **Persist
 
 | Screen 3: Affiliated Clubs (`Fig 3.3`) | Screen 4: Coaching (`Fig 3.4`) |
 | :---: | :---: |
-| ![3 Affiliated Clubs](Figma%20Designs/3.jpg) | ![4 Coaching](Figma%20Designs/4.jpg) |
+| ![3 Affiliated Clubs](Figma%20Designs/3.jpg) | ![4 Coaching](Figma%20Designs/4.png) |
 | *Clean tabular directory of MRA-affiliated racing clubs across Ulster with contact and discipline details.* | *Dedicated coaching portal detailing MRA's rider training programmes and official coaching coordinators.* |
 
 <div align="center">
-  <img src="Figma%20Designs/5.jpg" alt="5 About MRA Ireland" width="600"/>
+  <img src="Figma%20Designs/5.png" alt="5 About MRA Ireland" width="600"/>
   <p><i>Screen 5 (Fig 3.5 — About): Institutional overview of MRA Ireland, detailing its 9-county Ulster coverage, ~50 annual events, ~1,500 members, and FIM/WADA regulatory alignment.</i></p>
 </div>
 
@@ -167,7 +167,7 @@ The redesigned MRA Ireland prototype replaces cluttered layouts with a **Persist
 
 | Screen 6: Adult Solo Championship (`Fig 3.6`) | Screen 7: Quad & Sidecar Championship (`Fig 3.7`) |
 | :---: | :---: |
-| ![6 Adult Solo Championship](Figma%20Designs/6.jpg) | ![7 Quad and Sidecar Championship](Figma%20Designs/7.jpg) |
+| ![6 Adult Solo Championship](Figma%20Designs/6.png) | ![7 Quad and Sidecar Championship](Figma%20Designs/7.jpg) |
 | *Standardized championship layout displaying upcoming round dates, eligibility/transponder rules, `Championship Standings` PDF card, and series sponsors.* | *Dedicated Ulster Quad & Sidecar portal with round dates, class information, downloadable standings, and clickable sponsor cards.* |
 
 | Screen 8: Youth Solo Championship (`Fig 3.8`) | Screen 9: Ulster Trial Championship (`Fig 3.9`) |
