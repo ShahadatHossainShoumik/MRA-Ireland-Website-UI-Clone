@@ -253,7 +253,7 @@ MRA-Ireland-Website-UI-Redesign-HCI3202/
 ---
 ## 👥 Project Team, Contributions & Academic Details
 
-| # | Team Member Name | INTI Student ID | Programme & Section | Primary Project Contribution |
+| # | Team Member Name | INTI Student ID | Programme & Section |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **Shahadat Hossain** *(UI/UX Lead & Figma Architect)* | `I26041279` | BITI / BCSI (`6H1 / 6MB1`) — *June 2026 Student Mobility Scholar* |
 | 2 | **Rowan Cesar Macuacua** | `I25037217` | BITI (`6H1 / 6MB1`) |
